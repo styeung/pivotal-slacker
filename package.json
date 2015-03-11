@@ -1,0 +1,19 @@
+{
+  "name": "pivotal-slacker",
+  "version": "0.0.1",
+  "description": "Slack bot for estimating Pivotal Tracker stories",
+  "main": "run.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^0.5.1",
+    "slack-client": "^1.4.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
