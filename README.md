@@ -1,3 +1,5 @@
+[![Circle CI](https://circleci.com/gh/spilth/pivotal-slacker.svg?style=svg)](https://circleci.com/gh/spilth/pivotal-slacker)
+
 # Pivotal Slacker
 
 ## Setup
