@@ -13,7 +13,7 @@ slack.on('open', function() {
 });
 
 slack.on('message', function(message) {
-  channel = slack.getChannelGroupOrDMByID(message.channel)
+  channel = slack.getChannelGroupOrDMByID(message.channel);
   channel.send("Yo yo yo!");
 });
 
