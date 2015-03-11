@@ -15,6 +15,8 @@ Then checkout the project:
 Create a `.env` file in the root of the project with the following contents:
 
     SLACK_TOKEN=<your-bots-slack-token>
+    TRACKER_TOKEN=<your-tracker-api-token>
+    TRACKER_PROJECT_ID=<your-tracker-project-id>
 
 Then run:
 

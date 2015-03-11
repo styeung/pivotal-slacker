@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^0.5.1",
+    "pivotaltracker": "^0.1.1",
     "slack-client": "^1.4.0"
   },
   "devDependencies": {
